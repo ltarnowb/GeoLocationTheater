@@ -23,7 +23,7 @@ body {
     float: center;
 }
 
-table{
+#nav{
     float: center;
     width: 50vw;
     text-align: center;
@@ -35,17 +35,31 @@ table{
 /* Main Content */
 .content{
     margin: auto;
-    width: 50%;
-    border: 4px solid black;
+    /* width: 50%; */
+    /* border: 4px solid black; */
     padding: 10px;
     vertical-align: middle;
+    /* text-align: center; */
 }
+
+#conTab {
+    vertical-align: middle;
+    text-align: center;
+    float: center;
+    width: 100vw;
+}
+
 #vidDiv {
     display: block;
 }
 
+#perDiv {
+    display: none;
+}
+
 #prezDiv {
     display: none;
+    background-color: white;
 }
 
 #aboutDiv {
@@ -53,10 +67,11 @@ table{
     width: 955;
     height: 500;
     background-color: white;
+    text-align: left;
 }
 
 #vid {
-    background-color: black;
+    justify-content: center;
 }
 
 
