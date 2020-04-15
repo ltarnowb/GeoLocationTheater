@@ -1,0 +1,67 @@
+
+/* Document Set Up */
+#heading {
+    background-color: blue; 
+    font-size: 30px; 
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    height: 30px;
+}
+
+body {
+    background-color: #808080;
+}
+
+#spacer {
+    width: 12.5vw;
+}
+
+
+/* Nav Bar */
+.nav {
+    float: center;
+}
+
+table{
+    float: center;
+    width: 50vw;
+    text-align: center;
+    font-size: 20px;
+    vertical-align: middle;
+    margin: auto;
+}
+
+/* Main Content */
+.content{
+    margin: auto;
+    width: 50%;
+    border: 4px solid black;
+    padding: 10px;
+    vertical-align: middle;
+}
+#vidDiv {
+    display: block;
+}
+
+#prezDiv {
+    display: none;
+}
+
+#aboutDiv {
+    display: none;
+    width: 955;
+    height: 500;
+    background-color: white;
+}
+
+#vid {
+    background-color: black;
+}
+
+
+
+
+
+
+
