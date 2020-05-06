@@ -19,7 +19,7 @@ var vid = document.getElementById("vid");
 // var welcome = "https://www.youtube.com/embed/lojuls2PmYs"; 
 // wel.src = welcome;
 
-var locTBD = "notavail.jpg";
+var locTBD = "https://www.youtube.com/embed/W567e9o8ljQ";
 
 
 //0: 12 Nite 1: Dept Vid 2: 12 Nite 3: tech quickie
