@@ -22,18 +22,17 @@ var vid = document.getElementById("vid");
 var locTBD = "notavail.jpg";
 
 
-//0: Crash Course 1: SNL 2: Sleep No More 3: tech quickie
-var locations = ["https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/2f7tmS1oig4","https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/-pUz9fIwvxk"];
+//0: 12 Nite 1: Dept Vid 2: 12 Nite 3: tech quickie
+var locations = ["https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/jn2WaCl5ZmA","https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/-pUz9fIwvxk"];
 
 var cLong;
 
 var cLat;
 
-//0: home 1: baird 2: pier 3: Dubai
-var latArr = [43.000437, 42.907082, 42.954447, 25.099438];
+//0: home 1: boat house 2: pier 3: Dubai
+var latArr = [43.000437, 43.065286, 42.954447, 25.099438];
 
-var longArr = [-78.781884, -78.902606, -78.832048, 55.256597];
-
+var longArr = [-78.781884, -78.802085, -78.832048, 55.256597];
 
 
 var delLat = .000697;
