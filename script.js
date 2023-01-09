@@ -22,17 +22,17 @@ var vid = document.getElementById("vid");
 var locTBD = "https://www.youtube.com/embed/W567e9o8ljQ";
 
 
-//0: 12 Nite 1: Dept Vid 2: 12 Nite 3: tech quickie
-var locations = ["https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/jn2WaCl5ZmA","https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/-pUz9fIwvxk"];
+//0: 12 Nite 1: Dept Vid 2: 12 Nite 3: tech quickie 4.YSD 
+var locations = ["https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/jn2WaCl5ZmA","https://www.youtube.com/embed/W567e9o8ljQ","https://www.youtube.com/embed/-pUz9fIwvxk","https://youtu.be/7HnV-69RtaY:"];
 
 var cLong;
 
 var cLat;
 
-//0: home 1: boat house 2: pier 3: Dubai
-var latArr = [43.000437, 43.065286, 25.099438, 38.85812608426785];
+//0: home 1: boat house 2: pier 3: Dubai 4: Yale
+var latArr = [43.000437, 43.065286, 25.099438, 38.85812608426785, 41.3171712];
 
-var longArr = [-78.781884, -78.802085, 55.256597, -76.99044723761173];
+var longArr = [-78.781884, -78.802085, 55.256597, -76.99044723761173,-72.9317376];
 
 
 var delLat = .000697;
